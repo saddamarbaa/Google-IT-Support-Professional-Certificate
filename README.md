@@ -1,6 +1,6 @@
 # Google IT Support Professional Certificate
 
-# I made this repository to share my Certificates For Google IT Support Professional Certificate 
+I made this repository to share my Certificates For Google IT Support Professional Certificate 
 Offered By Google on Coursera
 
 
