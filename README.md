@@ -1,7 +1,12 @@
 # Google IT Support Professional Certificate
 
 I made this repository to share my Certificate For Google IT Support Professional Certificate 
-Offered By Google in Coursera
+Offered By Google on Coursera
+
+
+
+I had successfully completed Google IT Support specialist by Google
+here the link on Coursera  :  https://www.coursera.org/account/accomplishments/specialization/8PDRYY4FUD79
 
 # There are 5 Courses in this Professional Certificate
 
