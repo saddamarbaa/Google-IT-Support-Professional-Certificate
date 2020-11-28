@@ -23,7 +23,7 @@ https://www.coursera.org/account/accomplishments/verify/6MPG6FXAG7D3
 
 # (2)  The Bits and Bytes of Computer Networking
 
-link to the The Bits and Bytes of Computer Networking course on Coursera :
+link to The Bits and Bytes of Computer Networking course on Coursera :
 
 https://www.coursera.org/account/accomplishments/verify/AYN294MEQEFA
 
@@ -33,7 +33,24 @@ link to my Certificate on Coursera :
 https://www.coursera.org/account/accomplishments/verify/6MPG6FXAG7D3
 
 
-![image](https://user-images.githubusercontent.com/51326421/100516815-140c6700-31b9-11eb-923d-cd6776a71675.png)
+![image](https://user-images.githubusercontent.com/51326421/100516885-7f563900-31b9-11eb-9427-1f9f23688405.png)
+
+
+# (3)  Operating Systems and You: Becoming a Power User
+
+link to the Operating Systems and You: Becoming a Power User course on Coursera :
+
+https://www.coursera.org/learn/os-power-user/home/welcome
+
+
+link to my Certificate on Coursera : 
+
+https://www.coursera.org/account/accomplishments/verify/H66VXHMUB3RE
+
+
+![image](https://user-images.githubusercontent.com/51326421/100516977-1b804000-31ba-11eb-9dc5-ff5fbd7cbb9d.png)
+
+
 
 
 
