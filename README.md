@@ -60,6 +60,21 @@ link to my Certificate on Coursera : https://coursera.org/share/26f25af5a9f75c0f
 
 
 
+# (5)   IT Security: Defense against the digital dark arts 
+
+link to the IT Security: Defense against the digital dark arts course on Coursera :
+
+https://www.coursera.org/learn/it-security/home/welcome
+
+
+link to my Certificate on Coursera : https://coursera.org/share/7ffb0e6781cf69c11800c7d947b90e8d
+
+
+![image](https://user-images.githubusercontent.com/51326421/100517296-3f448580-31bc-11eb-875c-982635a2b463.png)
+
+
+
+
 
 
 
