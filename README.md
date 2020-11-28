@@ -21,7 +21,7 @@ link to my Certificate on Coursera :   https://coursera.org/share/34558e3d69760d
 
 # (2)  The Bits and Bytes of Computer Networking
 
-link to The Bits and Bytes of Computer Networking course on Coursera :  
+link to The Bits and Bytes of Computer Networking course on Coursera  :  
 
 https://www.coursera.org/account/accomplishments/verify/AYN294MEQEFA
 
