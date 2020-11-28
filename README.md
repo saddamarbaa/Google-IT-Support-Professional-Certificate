@@ -8,6 +8,10 @@ Offered By Google on Coursera
 I had successfully completed Google IT Support specialist by Google
 here the link on Coursera  :  https://www.coursera.org/account/accomplishments/specialization/8PDRYY4FUD79
 
+
+![image](https://user-images.githubusercontent.com/51326421/100517678-fcd07800-31be-11eb-8e55-c4aac4877d7a.png)
+
+
 # There are 5 Courses in this Professional Certificate
 
 # (1) Technical Support Fundamentals
